@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118776892173",
+    "firebase_url": "https://literaryclub-4b11c.firebaseio.com",
+    "project_id": "literaryclub-4b11c",
+    "storage_bucket": "literaryclub-4b11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118776892173:android:4405959deec622e7",
+        "android_client_info": {
+          "package_name": "com.example.literaryclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118776892173-ntfk3n0nnv3l1gcihdl5jhnsifk093ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1j48z774PGoaJMqJwORqvIytG1yfAPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118776892173-ntfk3n0nnv3l1gcihdl5jhnsifk093ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
